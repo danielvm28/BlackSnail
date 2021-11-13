@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"model","l":"Channel"},{"p":"ui","l":"Main"},{"p":"model","l":"Movie"},{"p":"model","l":"MovieCategory"},{"p":"model","l":"Product"},{"p":"model","l":"Season"},{"p":"model","l":"Show"},{"p":"model","l":"Subscriber"},{"p":"model","l":"SubscriberType"}]
